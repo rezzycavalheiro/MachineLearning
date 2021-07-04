@@ -1,7 +1,8 @@
 # Machine Learning
 
-Machine Learning algorithms implemented using th diabetes and the breast cancer database. Data can be changed for any of them.  
-Algoritms used:  
+Machine Learning algorithms implemented using the diabetes and the breast cancer database. Data can be changed for any of them.
+
+### Algoritms used:  
   
 - Decision Tree Classifier
 - K neighbors Classifier
